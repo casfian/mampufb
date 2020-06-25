@@ -1,6 +1,6 @@
 # mampufb
 
-A new Flutter project.
+A new Flutter project to demo Firebase capabilities during my training at MAMPU Malaysia
 
 ## Getting Started
 
