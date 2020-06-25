@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "539379636657",
+    "firebase_url": "https://mampudemo.firebaseio.com",
+    "project_id": "mampudemo",
+    "storage_bucket": "mampudemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539379636657:android:24416e965be3f917dc8590",
+        "android_client_info": {
+          "package_name": "com.example.mampufb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539379636657-l8kdn5i7us63rfruih6fap77muoffrg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0tnbmfOiLq6xhwOZgPvj8GywPkXUmy6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539379636657-l8kdn5i7us63rfruih6fap77muoffrg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
