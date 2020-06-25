@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:mampufb/addbuah.dart';
+// import 'package:mampufb/addbuah.dart';
+import 'package:mampufb/login.dart';
 
  
 void main() => runApp(MyApp());
@@ -10,7 +11,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Firebase MAMPU Demo',
       //we will straight use Addbuah UI
-      home: Addbuah(),
+      home: Login(),
     );
   }
 }
