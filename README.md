@@ -1,6 +1,7 @@
 # mampufb
 
-A new Flutter project to demo Firebase capabilities during my training at MAMPU Malaysia
+A new Flutter project to demo Firebase capabilities 
+during my training at MAMPU Malaysia June 22-26 2020
 
 ## Getting Started
 
